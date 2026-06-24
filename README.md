@@ -2,7 +2,7 @@
 
 _Learn how to give GitHub Copilot more tools to expand the capabilities of your development workflow. All in less than an hour!_
 
-## Welcome
+## Welcoe
 
 - **Who is this for**: Developers looking to enhance their AI-assisted workflows, GitHub Copilot users, and AI enthusiasts.
 - **What you'll learn**: We'll introduce MCP basics, a GitHub MCP server setup, and integration with Copilot Agent Mode.
